@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C++ programming
 - 💞️ I’m looking to collaborate on internships
-- 📫 Reach me via shrishdeivam@gmail.com
+- 📫 Reach me via shrishdks@gmail.com
 
 <!---
 Shrish-KS/Shrish-KS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
